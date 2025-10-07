@@ -1,7 +1,7 @@
 # tripadvisor-reviews
 ## No code included
 
-In this repor we trespass the captcha and barrier of tripadvisor in order to extract the reviews
+In this repo we trespass the captcha and barrier of tripadvisor in order to extract the reviews
 
 
 
